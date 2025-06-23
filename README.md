@@ -11,3 +11,4 @@
 - Atsuta Jingu
 - Koami Shrine
 - Wasureta-Jinja
+- Shinto Shrines
