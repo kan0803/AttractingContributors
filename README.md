@@ -23,3 +23,4 @@ I currently own a Honda Civic, but what do you think would be a good next car fo
 - Mazda AZ-1
 - Audi RSQ3
 - Toyota Voxy
+- Mazda RX-7 (FC3S)
