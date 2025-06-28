@@ -12,3 +12,4 @@
 - Koami Shrine
 - Wasureta-Jinja
 - Shinto Shrines
+- Kasuga Taisha Shrine
