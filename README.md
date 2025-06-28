@@ -4,6 +4,7 @@
 - mokumoku
 - wairudoramenGONZO
 - Marugen
+- Chukasoba Fujii
 - Ano
 - Ichiran
 - Tsubasa
