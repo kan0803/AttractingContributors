@@ -24,3 +24,4 @@ I currently own a Honda Civic, but what do you think would be a good next car fo
 - Audi RSQ3
 - Toyota Voxy
 - Mazda RX-7 (FC3S)
+- Eunos Roadster(MX-5 na miata)
